@@ -81,9 +81,10 @@ const Header = () => {
                                          <img src='images/menu.svg' alt='' /><span className='me-5 d-inline-block'>Show Categories</span>
                                         </button>
                                         <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-                                            <li><a class="dropdown-item" href="#">Action</a></li>
-                                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                            <Link className="dropdown-item text-white" to="">Action</Link>
+                                            <Link className="dropdown-item text-white" to="">Another action</Link>
+                                            <Link className="dropdown-item text-white" to="">Something else here</Link>
+                                           
                                         </ul>
                                     </div>
                                 </div>
