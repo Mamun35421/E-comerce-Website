@@ -14,6 +14,12 @@
 body{
   font-family: 'Rubik', sans-serif;
 }
+
+.card-wrapper{
+  background-color: rgb(218, 214, 214);
+  box-shadow: 0 0 10x #0000001a;
+  padding: 15px;
+ }
 a{
   text-decoration: none;
   display: inline-block;
@@ -228,6 +234,7 @@ footer .input-group-text{
   border-right: 1px solid #ededed;
  }
 
+ 
 
  /*Category section end */
 /*Home page end */
