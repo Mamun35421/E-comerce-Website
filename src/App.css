@@ -346,14 +346,13 @@ footer .input-group-text{
   right: 4px;
 }
 
+
     /*Product Card ends */
 
 /*SpecialProduct Card start */
-special-product-card{
-  padding: 10px;
+.special-product-card{
+  padding:20px  10px;
   border-radius: 10px;
   background-color: white;
 }
-
-
 /*SpecialProduct Card ends */
